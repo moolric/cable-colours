@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-au">
+
+<head>
+	<meta charset="utf-8">
+	<title>Cable Colours</title>
+	<link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body>
+	<div id="mainContent">
+		<h1>Cable Colours</h1>
+		<div class="inputs">
+			<div class="input input-capacity">
+				<div class="label">Cable size</div>
+				<select>
+					<option>36</option>
+					<option>96</option>
+					<option>120</option>
+					<option selected>144</option>
+					<option>216</option>
+					<option>288</option>
+					<option>312</option>
+					<option>432</option>
+				</select>
+			</div>
+			<div class="input input-number">
+				<div class="label">Number</div>
+				<input type="tel" name="number">
+			</div>
+		</div>
+		<div class="result">
+			<div id="tube">
+				<div id="tube-stripe" class="stripes"></div>
+				<div id="fiber">
+					<div id="fiber-stripe" class="stripes"></div>
+				</div>
+				<div class="go">GO</div>
+			</div>
+			<div class="colour" id="tube-colour">
+				<div class="colour-label">Tube</div>
+				<div class="colour-name"></div>
+				<div class="colour-stripe"></div>
+			</div>
+			<div class="colour" id="fiber-colour">
+				<div class="colour-label">Fiber</div>
+				<div class="colour-name"></div>
+				<div class="colour-stripe"></div>
+			</div>
+		</div>
+	</div>
+	<div class="info">
+		<h2>About Cable Colours</h2>
+		<p>Find the colour codes for different cables by entering cable size and fiber number.</p>
+		<p>If you have any suggestions for improvements, please contact <a href="mailto:colours@coreymayor.com">colours@coreymayor.com</a>.</p>
+	</div>
+	<script type="text/javascript" src="scripts.js"></script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88755632-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+
+</html>
