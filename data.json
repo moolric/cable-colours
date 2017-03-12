@@ -13150,5 +13150,4998 @@
         "tube_stripe": 1,
         "fiber": "aqua",
         "fiber_stripe": 1
-    }
+    },
+
+  {
+    "capacity": 624,
+    "number": 1,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 2,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 3,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 4,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 5,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 6,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 7,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 8,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 9,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 10,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 11,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 12,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 13,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 14,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 15,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 16,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 17,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 18,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 19,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 20,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 21,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 22,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 23,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 24,
+    "tube": "blue",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 25,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 26,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 27,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 28,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 29,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 30,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 31,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 32,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 33,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 34,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 35,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 36,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 37,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 38,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 39,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 40,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 41,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 42,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 43,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 44,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 45,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 46,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 47,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 48,
+    "tube": "orange",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 49,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 50,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 51,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 52,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 53,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 54,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 55,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 56,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 57,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 58,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 59,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 60,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 61,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 62,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 63,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 64,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 65,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 66,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 67,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 68,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 69,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 70,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 71,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 72,
+    "tube": "green",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 73,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 74,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 75,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 76,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 77,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 78,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 79,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 80,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 81,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 82,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 83,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 84,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 85,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 86,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 87,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 88,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 89,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 90,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 91,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 92,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 93,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 94,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 95,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 96,
+    "tube": "brown",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 97,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 98,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 99,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 100,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 101,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 102,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 103,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 104,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 105,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 106,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 107,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 108,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 109,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 110,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 111,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 112,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 113,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 114,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 115,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 116,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 117,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 118,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 119,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 120,
+    "tube": "slate",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 121,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 122,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 123,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 124,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 125,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 126,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 127,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 128,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 129,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 130,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 131,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 132,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 133,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 134,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 135,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 136,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 137,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 138,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 139,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 140,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 141,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 142,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 143,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 144,
+    "tube": "white",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 145,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 146,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 147,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 148,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 149,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 150,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 151,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 152,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 153,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 154,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 155,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 156,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 157,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 158,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 159,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 160,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 161,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 162,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 163,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 164,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 165,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 166,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 167,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 168,
+    "tube": "red",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 169,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 170,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 171,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 172,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 173,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 174,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 175,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 176,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 177,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 178,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 179,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 180,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 181,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 182,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 183,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 184,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 185,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 186,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 187,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 188,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 189,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 190,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 191,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 192,
+    "tube": "black",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 193,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 194,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 195,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 196,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 197,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 198,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 199,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 200,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 201,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 202,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 203,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 204,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 205,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 206,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 207,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 208,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 209,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 210,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 211,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 212,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 213,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 214,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 215,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 216,
+    "tube": "yellow",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 217,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 218,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 219,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 220,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 221,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 222,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 223,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 224,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 225,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 226,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 227,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 228,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 229,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 230,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 231,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 232,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 233,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 234,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 235,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 236,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 237,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 238,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 239,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 240,
+    "tube": "violet",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 241,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 242,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 243,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 244,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 245,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 246,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 247,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 248,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 249,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 250,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 251,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 252,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 253,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 254,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 255,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 256,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 257,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 258,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 259,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 260,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 261,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 262,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 263,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 264,
+    "tube": "rose",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 265,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 266,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 267,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 268,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 269,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 270,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 271,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 272,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 273,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 274,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 275,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 276,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 277,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 278,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 279,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 280,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 281,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 282,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 283,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 284,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 285,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 286,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 287,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 288,
+    "tube": "aqua",
+    "tube_stripe": 0,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 289,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 290,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 291,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 292,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 293,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 294,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 295,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 296,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 297,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 298,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 299,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 300,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 301,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 302,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 303,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 304,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 305,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 306,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 307,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 308,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 309,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 310,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 311,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 312,
+    "tube": "blue",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 313,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 314,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 315,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 316,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 317,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 318,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 319,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 320,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 321,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 322,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 323,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 324,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 325,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 326,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 327,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 328,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 329,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 330,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 331,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 332,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 333,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 334,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 335,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 336,
+    "tube": "orange",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 337,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 338,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 339,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 340,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 341,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 342,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 343,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 344,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 345,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 346,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 347,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 348,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 349,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 350,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 351,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 352,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 353,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 354,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 355,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 356,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 357,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 358,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 359,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 360,
+    "tube": "green",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 361,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 362,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 363,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 364,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 365,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 366,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 367,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 368,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 369,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 370,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 371,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 372,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 373,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 374,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 375,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 376,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 377,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 378,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 379,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 380,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 381,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 382,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 383,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 384,
+    "tube": "brown",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 385,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 386,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 387,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 388,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 389,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 390,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 391,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 392,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 393,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 394,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 395,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 396,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 397,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 398,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 399,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 400,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 401,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 402,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 403,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 404,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 405,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 406,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 407,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 408,
+    "tube": "slate",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 409,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 410,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 411,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 412,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 413,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 414,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 415,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 416,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 417,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 418,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 419,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 420,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 421,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 422,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 423,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 424,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 425,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 426,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 427,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 428,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 429,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 430,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 431,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 432,
+    "tube": "white",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 433,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 434,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 435,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 436,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 437,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 438,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 439,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 440,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 441,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 442,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 443,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 444,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 445,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 446,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 447,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 448,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 449,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 450,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 451,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 452,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 453,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 454,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 455,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 456,
+    "tube": "red",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 457,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 458,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 459,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 460,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 461,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 462,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 463,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 464,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 465,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 466,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 467,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 468,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 469,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 470,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 471,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 472,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 473,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 474,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 475,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 476,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 477,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 478,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 479,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 480,
+    "tube": "black",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 481,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 482,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 483,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 484,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 485,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 486,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 487,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 488,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 489,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 490,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 491,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 492,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 493,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 494,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 495,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 496,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 497,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 498,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 499,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 500,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 501,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 502,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 503,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 504,
+    "tube": "yellow",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 505,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 506,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 507,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 508,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 509,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 510,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 511,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 512,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 513,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 514,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 515,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 516,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 517,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 518,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 519,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 520,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 521,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 522,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 523,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 524,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 525,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 526,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 527,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 528,
+    "tube": "violet",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 529,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 530,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 531,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 532,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 533,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 534,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 535,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 536,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 537,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 538,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 539,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 540,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 541,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 542,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 543,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 544,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 545,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 546,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 547,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 548,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 549,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 550,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 551,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 552,
+    "tube": "rose",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 553,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 554,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 555,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 556,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 557,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 558,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 559,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 560,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 561,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 562,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 563,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 564,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 565,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 566,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 567,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 568,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 569,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 570,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 571,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 572,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 573,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 574,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 575,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 576,
+    "tube": "aqua",
+    "tube_stripe": 1,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 577,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 578,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 579,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 580,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 581,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 582,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 583,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 584,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 585,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 586,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 587,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 588,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 589,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 590,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 591,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 592,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 593,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 594,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 595,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 596,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 597,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 598,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 599,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 600,
+    "tube": "blue",
+    "tube_stripe": 2,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 601,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "blue",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 602,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "orange",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 603,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "green",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 604,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "brown",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 605,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "slate",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 606,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "white",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 607,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "red",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 608,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "black",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 609,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "yellow",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 610,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "violet",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 611,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "rose",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 612,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "aqua",
+    "fiber_stripe": 0
+  },
+  {
+    "capacity": 624,
+    "number": 613,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "blue",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 614,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "orange",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 615,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "green",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 616,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "brown",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 617,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "slate",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 618,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "white",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 619,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "red",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 620,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "black",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 621,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "yellow",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 622,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "violet",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 623,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "rose",
+    "fiber_stripe": 1
+  },
+  {
+    "capacity": 624,
+    "number": 624,
+    "tube": "orange",
+    "tube_stripe": 2,
+    "fiber": "aqua",
+    "fiber_stripe": 1
+  }
 ]
