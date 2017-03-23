@@ -10,6 +10,7 @@
     const tubeStripeText = document.body.querySelector('#tube-colour .colour-stripe');
     const fiberStripeText = document.body.querySelector('#fiber-colour .colour-stripe');
     
+    
     // getting the data object with all the numbers in it
     loadJSON(function(response) {
         // Parse JSON string into object
