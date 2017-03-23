@@ -13,9 +13,13 @@ body {
 a {
     color:mediumpurple;
 }
-
+.wrapper {
+    max-width:500px;
+    margin:auto;
+}
 #mainContent {
     text-align:center;
+    
 }
 .info {
     padding:0 30px;

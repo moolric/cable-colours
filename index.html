@@ -10,53 +10,55 @@
 </head>
 
 <body>
-	<div id="mainContent">
-		<h1>Cable Colours</h1>
-		<div class="inputs">
-			<div class="input input-capacity">
-				<div class="label">Cable size</div>
-				<select>
-					<option>24</option>
-					<option>36</option>
-					<option>96</option>
-					<option>120</option>
-					<option selected>144</option>
-					<option>216</option>
-					<option>288</option>
-					<option>312</option>
-					<option>432</option>
-					<option>624</option>
-				</select>
-			</div>
-			<div class="input input-number">
-				<div class="label">Number</div>
-				<input type="tel" name="number">
-			</div>
-		</div>
-		<div class="result">
-			<div id="tube">
-				<div id="tube-stripe" class="stripes"></div>
-				<div id="fiber">
-					<div id="fiber-stripe" class="stripes"></div>
+	<div class="wrapper">
+		<div id="mainContent">
+			<h1>Cable Colours</h1>
+			<div class="inputs">
+				<div class="input input-capacity">
+					<div class="label">Cable size</div>
+					<select>
+						<option>24</option>
+						<option>36</option>
+						<option>96</option>
+						<option>120</option>
+						<option selected>144</option>
+						<option>216</option>
+						<option>288</option>
+						<option>312</option>
+						<option>432</option>
+						<option>624</option>
+					</select>
 				</div>
-				<div class="go">GO</div>
+				<div class="input input-number">
+					<div class="label">Number</div>
+					<input type="tel" name="number">
+				</div>
 			</div>
-			<div class="colour" id="tube-colour">
-				<div class="colour-label">Tube</div>
-				<div class="colour-name"></div>
-				<div class="colour-stripe"></div>
-			</div>
-			<div class="colour" id="fiber-colour">
-				<div class="colour-label">Fiber</div>
-				<div class="colour-name"></div>
-				<div class="colour-stripe"></div>
+			<div class="result">
+				<div id="tube">
+					<div id="tube-stripe" class="stripes"></div>
+					<div id="fiber">
+						<div id="fiber-stripe" class="stripes"></div>
+					</div>
+					<div class="go">GO</div>
+				</div>
+				<div class="colour" id="tube-colour">
+					<div class="colour-label">Tube</div>
+					<div class="colour-name"></div>
+					<div class="colour-stripe"></div>
+				</div>
+				<div class="colour" id="fiber-colour">
+					<div class="colour-label">Fiber</div>
+					<div class="colour-name"></div>
+					<div class="colour-stripe"></div>
+				</div>
 			</div>
 		</div>
-	</div>
-	<div class="info">
-		<h2>About Cable Colours</h2>
-		<p>Find the colour codes for different cables by entering cable size and fiber number.</p>
-		<p>If you have any suggestions for improvements, please contact <a href="mailto:colours@coreymayor.com">colours@coreymayor.com</a>.</p>
+		<div class="info">
+			<h2>About Cable Colours</h2>
+			<p>Find the colour codes for different cables by entering cable size and fiber number.</p>
+			<p>If you have any suggestions for improvements, please contact <a href="mailto:colours@coreymayor.com">colours@coreymayor.com</a>.</p>
+		</div>
 	</div>
 	<script type="text/javascript" src="scripts.js"></script>
 	<script>
