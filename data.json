@@ -1,5 +1,197 @@
 [
     {
+        "capacity": 24,
+        "number": 1,
+        "tube": "blue",
+        "fiber": "blue",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 2,
+        "tube": "blue",
+        "fiber": "orange",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 3,
+        "tube": "blue",
+        "fiber": "green",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 4,
+        "tube": "blue",
+        "fiber": "brown",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 5,
+        "tube": "blue",
+        "fiber": "slate",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 6,
+        "tube": "blue",
+        "fiber": "white",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 7,
+        "tube": "orange",
+        "fiber": "blue",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 8,
+        "tube": "orange",
+        "fiber": "orange",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 9,
+        "tube": "orange",
+        "fiber": "green",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 10,
+        "tube": "orange",
+        "fiber": "brown",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 11,
+        "tube": "orange",
+        "fiber": "slate",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 12,
+        "tube": "orange",
+        "fiber": "white",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 13,
+        "tube": "green",
+        "fiber": "blue",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 14,
+        "tube": "green",
+        "fiber": "orange",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 15,
+        "tube": "green",
+        "fiber": "green",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 16,
+        "tube": "green",
+        "fiber": "brown",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 17,
+        "tube": "green",
+        "fiber": "slate",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 18,
+        "tube": "green",
+        "fiber": "white",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 19,
+        "tube": "brown",
+        "fiber": "blue",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 20,
+        "tube": "brown",
+        "fiber": "orange",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 21,
+        "tube": "brown",
+        "fiber": "green",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 22,
+        "tube": "brown",
+        "fiber": "brown",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 23,
+        "tube": "brown",
+        "fiber": "slate",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
+        "capacity": 24,
+        "number": 24,
+        "tube": "brown",
+        "fiber": "white",
+        "tube_stripe": 0,
+        "fiber_stripe": 0
+    },
+    {
         "capacity": 36,
         "number": 1,
         "tube": "blue",
