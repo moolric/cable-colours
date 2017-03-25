@@ -1,6 +1,6 @@
 (function() {
 
-//const QSelect = (selector) => document.body.querySelector(selector)
+const QSelect = (selector) => document.body.querySelector(selector)
 
 const UI = {
     go: QSelect('.go'),
