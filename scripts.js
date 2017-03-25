@@ -1,5 +1,8 @@
 (function() {
 
+
+
+
 const QSelect = (selector) => document.body.querySelector(selector)
 
 const UI = {
@@ -50,7 +53,13 @@ const UI = {
             el.addEventListener('click', function() {
                 clearResults();
             });
+            el.addEventListener('keydown', function(e) {
+                clearResults();
+            });
+            
         });
+
+
     });
     
     function loadJSON(callback) {
