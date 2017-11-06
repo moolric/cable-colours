@@ -1,4 +1,4 @@
-An app that tells you the colour codes for a particular fire in fibre optic cable based on the numbers for it.
+An app that tells you the colour codes for a particular fibre in fibre optic cable based on the numbers for it.
 
 The live version can be found at http://colours.coreymayor.com/
 
